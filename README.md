@@ -21,12 +21,3 @@ This project is created using:
 ![Album Details 2](https://user-images.githubusercontent.com/89457854/142572915-eab2f32f-3021-4799-b519-f20f66b7eb02.png)
 
 
-
-## Project Report
-For more details, you can download project report of this project from  [here](https://drive.google.com/file/d/1AEOGeuhFXcJq4rsQyneWRzaEyVs0OE5T/view?usp=drivesdk "Project Report").
-
-Development of this project has been discontinued for now.
-
-
-### Disclaimer
-All the images artwork shown in the screenshots belongs to the respective artists or recording industry.
