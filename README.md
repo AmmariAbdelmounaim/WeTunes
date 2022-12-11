@@ -1,10 +1,8 @@
 # Android-Music-Player
-Music player app for android using Java.
+Application musicale pour android en utilisant Java.
 <br>
 <br>
-This app supports WAV, FLAC, AAC, MP3 and other music formats. It is a app with simple responsive user interface with attractive artwork and other metadata accessed for distinctive selection.
-<br>
-<br>
+
 ## Technologies
 This project is created using:
 * Java
@@ -20,4 +18,5 @@ This project is created using:
 ![Album Details 1](https://user-images.githubusercontent.com/89457854/142572911-3d975fb9-1f4e-4f4a-b577-8483140751d8.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Album Details 2](https://user-images.githubusercontent.com/89457854/142572915-eab2f32f-3021-4799-b519-f20f66b7eb02.png)
 
-
+Realisee par : <strong>AMMARI Abdelmounaim </strong>
+Professeur : <strong>KHAMLICHI Youness </strong>
